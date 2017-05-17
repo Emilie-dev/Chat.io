@@ -12,5 +12,13 @@
     "ent": "^2.2.0",
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilie-dev/Chat.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Emilie-dev/Chat.io/issues"
+  },
+  "homepage": "https://github.com/Emilie-dev/Chat.io#readme"
 }
